@@ -1,1 +1,2 @@
 # maharashtra-board-IT-CSS-program
+This is A REPOSITORY FOR MAHARASTRA BOARD IT SUBJECT ASSIGNMENTS.
